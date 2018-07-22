@@ -1,0 +1,5 @@
+name: CardGames
+version: 0.1
+main: com.extron.network.cards.CardGames
+description: ExtronNetwork's CardGames plugin
+depend: [ExtronNetwork]

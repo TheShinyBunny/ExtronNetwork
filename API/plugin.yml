@@ -1,0 +1,4 @@
+name: ExtronNetwork
+version: 2.5
+main: com.extron.network.api.Main
+description: main ExtronNetwork plugins api

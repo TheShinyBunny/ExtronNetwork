@@ -1,0 +1,5 @@
+name: SkyWars
+version: 0.3
+main: com.extron.network.skywars.SkyWars
+description: ExtronNetwork's SkyWars game plugin
+depend: [ExtronNetwork]

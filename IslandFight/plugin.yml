@@ -1,0 +1,5 @@
+name: IslandFight
+version: 0.1
+main: com.extron.network.islands.IslandFightMain
+description: ExtronNetwork's IslandFight game plugin
+depend: [ExtronNetwork]

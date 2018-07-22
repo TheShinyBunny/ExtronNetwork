@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardGames/CardGames.iml" filepath="$PROJECT_DIR$/CardGames/CardGames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commands/Commands.iml" filepath="$PROJECT_DIR$/Commands/Commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IslandFight/IslandFight.iml" filepath="$PROJECT_DIR$/IslandFight/IslandFight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtocolAPI/ProtocolAPI.iml" filepath="$PROJECT_DIR$/ProtocolAPI/ProtocolAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkyWars/SkyWars.iml" filepath="$PROJECT_DIR$/SkyWars/SkyWars.iml" />
+    </modules>
+  </component>
+</project>
