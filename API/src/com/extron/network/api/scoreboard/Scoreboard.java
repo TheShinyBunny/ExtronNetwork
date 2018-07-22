@@ -10,8 +10,6 @@ import java.util.Map;
 
 public abstract class Scoreboard {
 
-    private static Map<String,Scoreboard> instances = new HashMap<>();
-
     public abstract String getId();
 
     public abstract String getTitle();

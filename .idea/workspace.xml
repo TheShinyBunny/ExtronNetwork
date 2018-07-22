@@ -7,380 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84dde262-3de6-44af-97cf-2e4fd04ee6d1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.13plugin/1.13plugin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.13plugin/src/com/shinybunny/ua113/TestPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/GamePlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/AdvancedLootBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/AwesomeLootBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/BasicLootBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/Connect4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/CustomLootBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/FireWaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetAgeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetHorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetOcelot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetRabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetSheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/PetZombieBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/RidingPearl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/SlimePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/SlimePetBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/StonePaperShears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/kits/Kit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PathfinderGoalFollowPetOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PathfinderGoalMoveTowardsLook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/CommandPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/trolls/CommandFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandCollectible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/AbstractShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/MultiCostable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/PurchaseRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/economy/ShopItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/BasicEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/EntityBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/EntitySeatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/EntityStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/Rideable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/RideableStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/SeatableArmorStand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/SeatablePearl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/SlimePadEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/event/network/ExtronLoadedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/CreatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/MapCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/helpers/GameScoreboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/helpers/LootEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/helpers/LootGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/helpers/LootGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/helpers/LootPopulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/SavedHologram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/EmptyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/RectDrawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/base/CustomInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/base/ExtronStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/base/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/base/ItemDisplayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/base/ItemStackHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/interactions/IronGolemEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/interactions/MenuOpenerInteract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/interactions/StackInteractAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/BlockPos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/DataObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/BasicInvite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/CommandInviteBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/GadgetInviteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/Invite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/InviteHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/invites/InvitingGadget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/EnumSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/CardGames.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/src/com/extron/network/cards/CardGameManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/src/com/extron/network/cards/CardGames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/src/com/extron/network/cards/CardMinigame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGames/src/com/extron/network/cards/Taki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/CommandInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/Completions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/DefaultString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/EnumArg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/ExecuteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/InvalidArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/NotRequired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/OfflineOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/SenderCompletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/TreeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/annotations/DefaultAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/annotations/OptionalAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/annotations/RangeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/annotations/SenderAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/arguments/IntegerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/arguments/OfflinePlayerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/arguments/OnlinePlayerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/arguments/StringAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/AdditionalParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/AnnotationAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/ArgumentAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/CommandContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/examples/BanReason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/parsers/IntArgParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/IslandFight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/Island.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/IslandFight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/IslandFightMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/IslandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BankBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BaseBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BuildingBlacksmith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BuildingCarpentry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BuildingMine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IslandFight/src/com/extron/network/islands/buildings/BuildingRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWarsManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWarsSolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/API/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/ExtronWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/ExtronWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Collectible.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Collectible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/CollectibleTypeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/CollectibleTypeBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Gadget.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Gadget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/GeneralCollectibleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/GeneralCollectibleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/LobbyCollectibleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/LobbyCollectibleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/PlayerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/PlayerCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Rarity.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/Rarity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/CakeFountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/CakeFountain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/LuckCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/LuckCookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/RocketShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/impl/RocketShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootBoxManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootBoxManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootTier.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/loot/LootTier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetComplex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PetSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PlayerPet.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/collection/pet/PlayerPet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/CommandManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/argument/ExecuteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/argument/ExecuteData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/CommandLobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/CommandLobby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/CommandProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/CommandProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandHologram.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandHologram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/trolls/CommandTrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/trolls/CommandTrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandSpawnMob.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/utils/CommandSpawnMob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/config/ConfigSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/config/ConfigSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/config/yaml/YamlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/config/yaml/YamlParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/data/DatabaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/data/DatabaseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/EntityRocketShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/EntityRocketShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/ExtronEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/ExtronEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/ExtronFallingBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/entity/ExtronFallingBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/event/EventManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/event/EventManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/event/inventory/ItemInteractEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/event/inventory/ItemInteractEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/GameMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/GameMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/GameStartRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/GameStartRules.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/CompetitiveManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/CompetitiveManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/GameManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/ICompetitiveManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/ICompetitiveManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/IGameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/IGameManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/PvPGameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/game/managers/PvPGameManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/Hologram.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/Hologram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/PlayerHologram.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/PlayerHologram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/VariabledHologram.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/hologram/VariabledHologram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonClose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonSeparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ButtonSeparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/EmptyErrorButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/EmptyErrorButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ErrorButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ErrorButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/InventoryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/InventoryMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ItemStackHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/LoreBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/ItemLore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/MenuNumberDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/MenuNumberDrawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/PlayerInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/PlayerInventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/SimpleButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/SimpleButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/SmartGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/SmartGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/CategoriesMenuBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/CategoriesMenuBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/CollectibleTypesMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/CollectibleTypesMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/LobbyTypeMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/LobbyTypeMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/MainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/ProfileMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/ProfileMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/SingleCategoryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/SingleCategoryMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/StatisticsMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/inventory/defaults/StatisticsMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/parkour/Parkour.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/parkour/Parkour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/parkour/ParkourMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/parkour/ParkourMark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/party/Party.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/party/Party.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/Permission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionPartyRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionPartyRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionRanked.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/permission/PermissionRanked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/players/ExtronPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/players/ExtronPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/players/FakePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/players/FakePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/players/PlayerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/players/PlayerList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/players/PlayerSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/players/PlayerSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/stats/StatisticManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/stats/StatisticManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/JsonContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/JsonContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/ListUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/NBTContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/NBTContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/Reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/StatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/TextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/TextUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/VoidGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/VoidGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/BooleanSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/BooleanSetting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/Setting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/settings/SettingGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/tasks/ExtronTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/tasks/ExtronTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/tasks/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/com/extron/network/api/utils/tasks/TaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/src/com/extron/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/src/com/extron/commands/CommandHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/CommandHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/src/com/extron/commands/Default.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/DefaultInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/Dispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/src/com/extron/commands/examples/CommandExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/src/com/extron/commands/examples/CommandExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProtocolAPI/src/com/extron/utils/protocol/packets/PacketOutPlayerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProtocolAPI/src/com/extron/utils/protocol/packets/PacketOutPlayerInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SkyWars/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWarsMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/solo/SkyWarsSolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/solo/SoloManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/solo/SoloScoreboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/SkyWars/src/com/extron/network/skywars/SkyWarsBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/ExtronWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/ExtronWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Collectible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Collectible.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/CollectibleTypeBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/CollectibleTypeBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Gadget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Gadget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/GeneralCollectibleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/GeneralCollectibleType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/LobbyCollectibleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/LobbyCollectibleType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/PlayerCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/PlayerCollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Rarity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/Rarity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/CakeFountain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/CakeFountain$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/CakeFountain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/CakeFountain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/Launcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/LuckCookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/LuckCookie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/RocketShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/impl/RocketShip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootBoxManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootBoxManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootInstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootTier$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootTier$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootTier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/loot/LootTier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetComplex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetInstance$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetInstance$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetInstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PetSimple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PlayerPet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/collection/pet/PlayerPet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/BaseCommand$Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/BaseCommand$Check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/BaseCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/BaseCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/CommandManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/CommandManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/argument/ExecuteData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/argument/ExecuteData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/argument/ValidArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/argument/ValidArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandLobby.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandLobby.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandParty$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandParty$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandProfile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandReply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/CommandReply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/admin/CommandHologram$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap$Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap$Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/trolls/CommandTrap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandLootBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandLootBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandSpawnMob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/command/defaults/utils/CommandSpawnMob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/config/ConfigSection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/config/ConfigSection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/config/yaml/YamlParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/config/yaml/YamlParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/data/DatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/data/DatabaseManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/EntityRocketShip$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/EntityRocketShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/EntityRocketShip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/ExtronEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/ExtronEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/ExtronFallingBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/entity/ExtronFallingBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/EventManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/EventManager$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/EventManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/EventManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/inventory/ItemInteractEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/event/inventory/ItemInteractEvent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameStartRules$Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameStartRules$Hook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameStartRules.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/GameStartRules.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/CompetitiveManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/CompetitiveManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/GameManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/ICompetitiveManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/ICompetitiveManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/IGameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/IGameManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/PvPGameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/game/managers/PvPGameManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/Hologram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/Hologram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/PlayerHologram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/PlayerHologram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/VariabledHologram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/hologram/VariabledHologram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonBack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonBack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonClose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonClose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonSeparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ButtonSeparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/EmptyErrorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/EmptyErrorButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ErrorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ErrorButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/InventoryMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/InventoryMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/ItemStackHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/LoreBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/MenuNumberDrawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/MenuNumberDrawing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/PlayerInventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/PlayerInventory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/SimpleButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/SimpleButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/SmartGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/SmartGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/CategoriesMenuBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/CategoriesMenuBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/CollectibleTypesMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/CollectibleTypesMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/LobbyTypeMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/LobbyTypeMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/MainMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/ProfileMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/ProfileMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/SingleCategoryMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/SingleCategoryMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/StatisticsMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/inventory/defaults/StatisticsMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/nick/skin/SkinManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/nick/skin/SkinManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/Parkour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/Parkour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark$Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/parkour/ParkourMark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/party/Party.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/party/Party.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/Permission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionPartyRole$Instance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionPartyRole$Instance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionRanked$Instance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/permission/PermissionRanked$Instance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/ExtronPlayer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/ExtronPlayer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/ExtronPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/ExtronPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/FakePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/FakePlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/PlayerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/PlayerList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/PlayerSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/players/PlayerSettings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/stats/StatisticManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/stats/StatisticManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/JsonContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/JsonContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/ListUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/ListUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/NBTContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/NBTContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/Reflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/Reflection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/StatusListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$ClickAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$ClickAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$HoverAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$HoverAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$JsonBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$JsonBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals$Replacer$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals$Replacer$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals$Replacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals$Replacer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils$Plurals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/TextUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/VoidGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/VoidGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/building/Structure$Piece.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/building/Structure$Piece.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/building/Structure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/building/Structure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/BooleanSetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/BooleanSetting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/Setting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/Setting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/settings/SettingGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/tasks/ExtronTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/tasks/ExtronTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/tasks/TaskManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/com/extron/network/api/utils/tasks/TaskManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/SkyWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/SkyWars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/SkyWarsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/solo/SkyWarsSolo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/solo/SoloManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SkyWars/com/extron/network/skywars/solo/SoloScoreboard.class" beforeDir="false" />
-    </list>
+    <list default="true" id="84dde262-3de6-44af-97cf-2e4fd04ee6d1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -402,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommandExamples.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CommandExamples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Commands/src/com/extron/commands/examples/CommandExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="697">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandWorld.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -420,18 +56,6 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NotRequired.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Commands/src/com/extron/commands/NotRequired.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -577,7 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/API/src/com/extron/network/api/economy/MultiCostable.java" />
         <option value="$PROJECT_DIR$/API/src/com/extron/network/api/economy/ShopItem.java" />
         <option value="$PROJECT_DIR$/API/src/com/extron/network/api/economy/PurchaseRequest.java" />
         <option value="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/trolls/CommandFind.java" />
@@ -628,10 +251,11 @@
         <option value="$PROJECT_DIR$/Commands/src/com/extron/commands/dispatcher/Dispatcher.java" />
         <option value="$PROJECT_DIR$/Commands/src/com/extron/commands/Command.java" />
         <option value="$PROJECT_DIR$/Commands/src/com/extron/commands/examples/CommandExamples.java" />
+        <option value="$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandWorld.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -872,7 +496,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -911,13 +536,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Commands/src/com/extron/commands/Range.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Commands/src/com/extron/commands/DefaultInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1276,8 +894,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Commands/src/com/extron/commands/examples/CommandExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="697">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/src/com/extron/network/api/command/defaults/admin/CommandWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
